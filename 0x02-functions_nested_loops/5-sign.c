@@ -3,7 +3,7 @@
 /**
  *print_sign - prints
  *
- *@n = parameter
+ *@n: parameter
  *
  *Return: returns 0, 1, -1, based on conditions given
  */
