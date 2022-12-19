@@ -8,11 +8,10 @@
  */
 int _atoi(char *s)
 {
-  int i = 0;
-  unsigned int ui = 0;
-  int min = 1;
-  int max = 0;
-
+int i = 0;
+unsigned int ui = 0;
+int min = 1;
+int max = 0;
 while (s[i])
 {
 if (s[i] == 45)
