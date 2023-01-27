@@ -1,0 +1,1 @@
+This folder contains my pointers and arrays projects/tasks
