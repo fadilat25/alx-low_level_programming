@@ -137,6 +137,6 @@ free(a);
 exit(98);
 }
 }
-print(a, ln - 1);
+_print(a, ln - 1);
 return (0);
 }
