@@ -99,14 +99,12 @@ str[i] = '\0';
  * @argv: argument vector
  * Return: zero
  */
-
 int main(int argc, char *argv[])
 {
-  int l1, l2, ln, ti, i;
-  char *a;
-  char *t;
-  char e[] = "Error\n";
-
+int l1, l2, ln, ti, i;
+char *a;
+char *t;
+char e[] = "Error\n";
 if (argc != 3 || check_for_digits(argv))
 {
 for (ti = 0; e[ti]; ti++)
